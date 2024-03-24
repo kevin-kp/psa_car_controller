@@ -96,6 +96,14 @@
   max_elec_consumption: 70
   max_fuel_consumption: 0
 - !ElecModel
+  name: DS3 Crossback e-tense (2022)
+  battery_power: 54
+  fuel_capacity: 0
+  abrp_name: ds:3crossback:20:48
+  reg: VR1UJZKW.*
+  max_elec_consumption: 70
+  max_fuel_consumption: 0
+- !ElecModel
   name: Mokka-e
   battery_power: 46
   fuel_capacity: 0
